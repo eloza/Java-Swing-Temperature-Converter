@@ -24,7 +24,6 @@ public class TemperatureConverterJavaSwing {
 
         // Set layout
         jfrm.setLayout(new FlowLayout());
-//        jfrm.setBackground(Color.blue);
         
         // Initial frame size
         jfrm.setSize(WIDTH, HEIGHT);
